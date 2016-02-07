@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="enstabretagne/travaux_diriges/TD2014/enonces/TD1/|enstabretagne/travaux_diriges/TD2014/enonces/TD2/|enstabretagne/travaux_diriges/TD/enonces/TD1/dependance/|enstabretagne/travaux_diriges/TD/enonces/TD1/enstabretagne/base/|enstabretagne/travaux_diriges/TD/enonces/TD1/Sujet/|enstabretagne/travaux_diriges/TD/enonces/TD1/enstabretagne/dependance/|enstabretagne/travaux_diriges/TD/enonces/TD1/enstabretagne/Sujet/|enstabretagne/travaux_diriges/TD/enonces/TD2/dependance/|enstabretagne/travaux_diriges/TD/enonces/TD2/enstabretagne/|enstabretagne/travaux_diriges/TD/enonces/TD2/Sujet/|enstabretagne/travaux_diriges/TD/enonces/TD1/|enstabretagne/travaux_diriges/TD/enonces/TD2/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="Dependances/jscience.jar"/>
+	<classpathentry kind="lib" path="Dependances/commons-math3-3.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="Dependances/commons-math3-3.5.jar"/>
+	<classpathentry kind="lib" path="Dependances/poi-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="Dependances/poi-ooxml-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="Dependances/poi-ooxml-schemas-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="Dependances/xmlbeans-2.6.0.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/JOGL"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

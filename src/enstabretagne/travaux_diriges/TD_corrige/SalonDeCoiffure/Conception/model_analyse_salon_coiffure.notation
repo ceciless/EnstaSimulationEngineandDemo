@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/viewpoints/policy/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_Nqp9II1JEeWK4d1VBZ0cRg" type="PapyrusUMLClassDiagram" name="ModeleAnalyse" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_OVj7UI1JEeWK4d1VBZ0cRg" type="2008">
+    <children xmi:type="notation:DecorationNode" xmi:id="_OVtsUI1JEeWK4d1VBZ0cRg" type="5029"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_OVtsUY1JEeWK4d1VBZ0cRg" type="7017">
+      <children xmi:type="notation:Shape" xmi:id="_b2-ccI1KEeWK4d1VBZ0cRg" type="3012">
+        <element xmi:type="uml:Property" href="model_analyse_salon_coiffure.uml#_as3ZwI1KEeWK4d1VBZ0cRg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_b2-ccY1KEeWK4d1VBZ0cRg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_4mTHoI1KEeWK4d1VBZ0cRg" type="3012">
+        <element xmi:type="uml:Property" href="model_analyse_salon_coiffure.uml#_nuxw4I1KEeWK4d1VBZ0cRg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4mTHoY1KEeWK4d1VBZ0cRg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_YOD4MI1OEeWK4d1VBZ0cRg" type="3012">
+        <element xmi:type="uml:Property" href="model_analyse_salon_coiffure.uml#_WTVYQI1LEeWK4d1VBZ0cRg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_YOD4MY1OEeWK4d1VBZ0cRg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_ZXFVwI1OEeWK4d1VBZ0cRg" type="3012">
+        <element xmi:type="uml:Property" href="model_analyse_salon_coiffure.uml#_NXznsI1LEeWK4d1VBZ0cRg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ZXFVwY1OEeWK4d1VBZ0cRg"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_OVtsUo1JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_OVtsU41JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_OVtsVI1JEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OVtsVY1JEeWK4d1VBZ0cRg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_OVtsVo1JEeWK4d1VBZ0cRg" type="7018">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_OVtsV41JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_OVtsWI1JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_OVtsWY1JEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OVtsWo1JEeWK4d1VBZ0cRg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_OVtsW41JEeWK4d1VBZ0cRg" type="7019">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_OVtsXI1JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_OVtsXY1JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_OVtsXo1JEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OVtsX41JEeWK4d1VBZ0cRg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_OZvQsI1JEeWK4d1VBZ0cRg" type="compartment_shape_display">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_OZvQsY1JEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OZvQso1JEeWK4d1VBZ0cRg"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_2WUzoI1LEeWK4d1VBZ0cRg" type="3032">
+      <element xsi:nil="true"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2WUzoY1LEeWK4d1VBZ0cRg" x="75" y="198"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_38DbUI1LEeWK4d1VBZ0cRg" type="3032">
+      <element xsi:nil="true"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_38DbUY1LEeWK4d1VBZ0cRg" x="153" y="198"/>
+    </children>
+    <element xmi:type="uml:Class" href="model_analyse_salon_coiffure.uml#_OU0UcI1JEeWK4d1VBZ0cRg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OVj7UY1JEeWK4d1VBZ0cRg" x="146" y="176" height="199"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_QNlM4Y1JEeWK4d1VBZ0cRg" type="2008">
+    <children xmi:type="notation:DecorationNode" xmi:id="_QNlM441JEeWK4d1VBZ0cRg" type="5029"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QNlM5I1JEeWK4d1VBZ0cRg" type="7017">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_QNlM5Y1JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QNlM5o1JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QNlM541JEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QNlM6I1JEeWK4d1VBZ0cRg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QNlM6Y1JEeWK4d1VBZ0cRg" type="7018">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_QNlM6o1JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QNlM641JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QNlM7I1JEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QNlM7Y1JEeWK4d1VBZ0cRg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QNlM7o1JEeWK4d1VBZ0cRg" type="7019">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_QNlM741JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QNlM8I1JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QNlM8Y1JEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QNlM8o1JEeWK4d1VBZ0cRg"/>
+    </children>
+    <element xmi:type="uml:Class" href="model_analyse_salon_coiffure.uml#_QNlM4I1JEeWK4d1VBZ0cRg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QNlM4o1JEeWK4d1VBZ0cRg" x="595" y="85"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_RCKrgY1JEeWK4d1VBZ0cRg" type="2008">
+    <children xmi:type="notation:DecorationNode" xmi:id="_RCKrg41JEeWK4d1VBZ0cRg" type="5029"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_RCKrhI1JEeWK4d1VBZ0cRg" type="7017">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_RCKrhY1JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_RCKrho1JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_RCKrh41JEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RCKriI1JEeWK4d1VBZ0cRg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_RCKriY1JEeWK4d1VBZ0cRg" type="7018">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_RCKrio1JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_RCKri41JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_RCKrjI1JEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RCKrjY1JEeWK4d1VBZ0cRg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_RCKrjo1JEeWK4d1VBZ0cRg" type="7019">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_RCKrj41JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_RCKrkI1JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_RCKrkY1JEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RCKrko1JEeWK4d1VBZ0cRg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_Kz7OU41OEeWK4d1VBZ0cRg" type="compartment_shape_display">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_Kz7OVI1OEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kz7OVY1OEeWK4d1VBZ0cRg"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_eGXvYI1OEeWK4d1VBZ0cRg" type="3032">
+      <element xsi:nil="true"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eGXvYY1OEeWK4d1VBZ0cRg" x="737" y="389"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_gH6wYI1OEeWK4d1VBZ0cRg" type="3032">
+      <element xsi:nil="true"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gH6wYY1OEeWK4d1VBZ0cRg" x="709" y="526"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_grW0oI1OEeWK4d1VBZ0cRg" type="3032">
+      <element xsi:nil="true"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_grW0oY1OEeWK4d1VBZ0cRg" x="712" y="650"/>
+    </children>
+    <element xmi:type="uml:Class" href="model_analyse_salon_coiffure.uml#_RCKrgI1JEeWK4d1VBZ0cRg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RCKrgo1JEeWK4d1VBZ0cRg" x="814" y="185"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_SDT_cY1JEeWK4d1VBZ0cRg" type="2008">
+    <children xmi:type="notation:DecorationNode" xmi:id="_SDT_c41JEeWK4d1VBZ0cRg" type="5029"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_SDT_dI1JEeWK4d1VBZ0cRg" type="7017">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_SDT_dY1JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_SDT_do1JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_SDT_d41JEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SDT_eI1JEeWK4d1VBZ0cRg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_SDT_eY1JEeWK4d1VBZ0cRg" type="7018">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_SDT_eo1JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_SDT_e41JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_SDT_fI1JEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SDT_fY1JEeWK4d1VBZ0cRg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_SDT_fo1JEeWK4d1VBZ0cRg" type="7019">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_SDT_f41JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_SDT_gI1JEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_SDT_gY1JEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SDT_go1JEeWK4d1VBZ0cRg"/>
+    </children>
+    <element xmi:type="uml:Class" href="model_analyse_salon_coiffure.uml#_SDT_cI1JEeWK4d1VBZ0cRg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SDT_co1JEeWK4d1VBZ0cRg" x="603" y="376"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_ygmfQY1LEeWK4d1VBZ0cRg" type="2008">
+    <children xmi:type="notation:DecorationNode" xmi:id="_ygmfQ41LEeWK4d1VBZ0cRg" type="5029"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_ygmfRI1LEeWK4d1VBZ0cRg" type="7017">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_ygmfRY1LEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_ygmfRo1LEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_ygmfR41LEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ygmfSI1LEeWK4d1VBZ0cRg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_ygmfSY1LEeWK4d1VBZ0cRg" type="7018">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_ygmfSo1LEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_ygmfS41LEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_ygmfTI1LEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ygmfTY1LEeWK4d1VBZ0cRg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_ygmfTo1LEeWK4d1VBZ0cRg" type="7019">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_ygmfT41LEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_ygmfUI1LEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_ygmfUY1LEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ygmfUo1LEeWK4d1VBZ0cRg"/>
+    </children>
+    <element xmi:type="uml:Class" href="model_analyse_salon_coiffure.uml#_ygmfQI1LEeWK4d1VBZ0cRg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ygmfQo1LEeWK4d1VBZ0cRg" x="91" y="486"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_1DeEoY1LEeWK4d1VBZ0cRg" type="2008">
+    <children xmi:type="notation:DecorationNode" xmi:id="_1DeEo41LEeWK4d1VBZ0cRg" type="5029"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_1DeEpI1LEeWK4d1VBZ0cRg" type="7017">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_1DeEpY1LEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_1DeEpo1LEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_1DeEp41LEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1DeEqI1LEeWK4d1VBZ0cRg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_1DeEqY1LEeWK4d1VBZ0cRg" type="7018">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_1DeEqo1LEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_1DeEq41LEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_1DeErI1LEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1DeErY1LEeWK4d1VBZ0cRg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_1DeEro1LEeWK4d1VBZ0cRg" type="7019">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_1DeEr41LEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_1DeEsI1LEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_1DeEsY1LEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1DeEso1LEeWK4d1VBZ0cRg"/>
+    </children>
+    <element xmi:type="uml:Class" href="model_analyse_salon_coiffure.uml#_1DeEoI1LEeWK4d1VBZ0cRg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1DeEoo1LEeWK4d1VBZ0cRg" x="225" y="486"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_OidngY1MEeWK4d1VBZ0cRg" type="2008">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Oidng41MEeWK4d1VBZ0cRg" type="5029"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_OidnhI1MEeWK4d1VBZ0cRg" type="7017">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_OidnhY1MEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_Oidnho1MEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_Oidnh41MEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OidniI1MEeWK4d1VBZ0cRg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_OidniY1MEeWK4d1VBZ0cRg" type="7018">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_Oidnio1MEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_Oidni41MEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_OidnjI1MEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OidnjY1MEeWK4d1VBZ0cRg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_OinYgI1MEeWK4d1VBZ0cRg" type="7019">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_OinYgY1MEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_OinYgo1MEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_OinYg41MEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OinYhI1MEeWK4d1VBZ0cRg"/>
+    </children>
+    <element xmi:type="uml:Class" href="model_analyse_salon_coiffure.uml#_OidngI1MEeWK4d1VBZ0cRg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Oidngo1MEeWK4d1VBZ0cRg" x="808" y="380"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_OxuLgY1MEeWK4d1VBZ0cRg" type="2008">
+    <children xmi:type="notation:DecorationNode" xmi:id="_OxuLg41MEeWK4d1VBZ0cRg" type="5029"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_OxuLhI1MEeWK4d1VBZ0cRg" type="7017">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_OxuLhY1MEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_OxuLho1MEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_OxuLh41MEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OxuLiI1MEeWK4d1VBZ0cRg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_OxuLiY1MEeWK4d1VBZ0cRg" type="7018">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_OxuLio1MEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_OxuLi41MEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_OxuLjI1MEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OxuLjY1MEeWK4d1VBZ0cRg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_OxuLjo1MEeWK4d1VBZ0cRg" type="7019">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_OxuLj41MEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_OxuLkI1MEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_OxuLkY1MEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OxuLko1MEeWK4d1VBZ0cRg"/>
+    </children>
+    <element xmi:type="uml:Class" href="model_analyse_salon_coiffure.uml#_OxuLgI1MEeWK4d1VBZ0cRg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OxuLgo1MEeWK4d1VBZ0cRg" x="811" y="505"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_O2DR4Y1MEeWK4d1VBZ0cRg" type="2008">
+    <children xmi:type="notation:DecorationNode" xmi:id="_O2DR441MEeWK4d1VBZ0cRg" type="5029"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_O2DR5I1MEeWK4d1VBZ0cRg" type="7017">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_O2DR5Y1MEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_O2DR5o1MEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_O2DR541MEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_O2DR6I1MEeWK4d1VBZ0cRg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_O2DR6Y1MEeWK4d1VBZ0cRg" type="7018">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_O2DR6o1MEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_O2DR641MEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_O2DR7I1MEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_O2DR7Y1MEeWK4d1VBZ0cRg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_O2DR7o1MEeWK4d1VBZ0cRg" type="7019">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_O2DR741MEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_O2DR8I1MEeWK4d1VBZ0cRg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_O2DR8Y1MEeWK4d1VBZ0cRg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_O2DR8o1MEeWK4d1VBZ0cRg"/>
+    </children>
+    <element xmi:type="uml:Class" href="model_analyse_salon_coiffure.uml#_O2DR4I1MEeWK4d1VBZ0cRg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_O2DR4o1MEeWK4d1VBZ0cRg" x="818" y="621"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_Nqp9IY1JEeWK4d1VBZ0cRg" name="diagram_compatibility_version" stringValue="1.0.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_Nqp9Io1JEeWK4d1VBZ0cRg"/>
+  <styles xmi:type="style:PapyrusViewStyle" xmi:id="_Nqp9I41JEeWK4d1VBZ0cRg">
+    <owner xmi:type="uml:Model" href="model_analyse_salon_coiffure.uml#__IhwcI1IEeWK4d1VBZ0cRg"/>
+  </styles>
+  <element xmi:type="uml:Model" href="model_analyse_salon_coiffure.uml#__IhwcI1IEeWK4d1VBZ0cRg"/>
+  <edges xmi:type="notation:Connector" xmi:id="_mdKNcI1JEeWK4d1VBZ0cRg" type="4001" source="_OVj7UI1JEeWK4d1VBZ0cRg" target="_QNlM4Y1JEeWK4d1VBZ0cRg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_mdKNc41JEeWK4d1VBZ0cRg" type="6001">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_mdKNdI1JEeWK4d1VBZ0cRg" y="-20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_mdKNdY1JEeWK4d1VBZ0cRg" type="6002">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_mdKNdo1JEeWK4d1VBZ0cRg" x="5" y="-16"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_mdKNd41JEeWK4d1VBZ0cRg" type="6003">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_mdKNeI1JEeWK4d1VBZ0cRg" x="50" y="7"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_mdKNeY1JEeWK4d1VBZ0cRg" type="6005">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_mdKNeo1JEeWK4d1VBZ0cRg" x="-14"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_mdKNe41JEeWK4d1VBZ0cRg" type="6033">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_mdKNfI1JEeWK4d1VBZ0cRg" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_mdKNfY1JEeWK4d1VBZ0cRg" type="6034">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_mdKNfo1JEeWK4d1VBZ0cRg" y="-20"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_mdKNcY1JEeWK4d1VBZ0cRg"/>
+    <element xmi:type="uml:Association" href="model_analyse_salon_coiffure.uml#_mdAcc41JEeWK4d1VBZ0cRg"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_mdKNco1JEeWK4d1VBZ0cRg" points="[33, -6, -174, -16]$[166, -40, -41, -50]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_megRQI1JEeWK4d1VBZ0cRg" id="(1.0,0.46733668341708545)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_oE3LEI1JEeWK4d1VBZ0cRg" id="(0.0,0.5)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_njj01I1JEeWK4d1VBZ0cRg" type="4001" source="_RCKrgY1JEeWK4d1VBZ0cRg" target="_SDT_cY1JEeWK4d1VBZ0cRg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_njj0141JEeWK4d1VBZ0cRg" type="6001">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_njj02I1JEeWK4d1VBZ0cRg" y="-20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_njj02Y1JEeWK4d1VBZ0cRg" type="6002">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_njtl0I1JEeWK4d1VBZ0cRg" x="12" y="33"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_njtl0Y1JEeWK4d1VBZ0cRg" type="6003">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_njtl0o1JEeWK4d1VBZ0cRg" x="-37" y="-32"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_njtl041JEeWK4d1VBZ0cRg" type="6005">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_njtl1I1JEeWK4d1VBZ0cRg" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_njtl1Y1JEeWK4d1VBZ0cRg" type="6033">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_njtl1o1JEeWK4d1VBZ0cRg" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_njtl141JEeWK4d1VBZ0cRg" type="6034">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_njtl2I1JEeWK4d1VBZ0cRg" y="-20"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_njj01Y1JEeWK4d1VBZ0cRg"/>
+    <element xmi:type="uml:Association" href="model_analyse_salon_coiffure.uml#_njj00I1JEeWK4d1VBZ0cRg"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_njj01o1JEeWK4d1VBZ0cRg" points="[9, 0, -254, -19]$[213, 22, -50, 3]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_nkTbsI1JEeWK4d1VBZ0cRg" id="(0.12,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dyf4gI1LEeWK4d1VBZ0cRg" id="(1.0,0.09)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_fBfbMI1LEeWK4d1VBZ0cRg" type="4001" source="_OVj7UI1JEeWK4d1VBZ0cRg" target="_SDT_cY1JEeWK4d1VBZ0cRg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_fBpMMI1LEeWK4d1VBZ0cRg" type="6001">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fBpMMY1LEeWK4d1VBZ0cRg" y="-20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_fBpMMo1LEeWK4d1VBZ0cRg" type="6002">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fBpMM41LEeWK4d1VBZ0cRg" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_fBpMNI1LEeWK4d1VBZ0cRg" type="6003">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fBpMNY1LEeWK4d1VBZ0cRg" x="47" y="-25"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_fBpMNo1LEeWK4d1VBZ0cRg" type="6005">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fBpMN41LEeWK4d1VBZ0cRg" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_fBpMOI1LEeWK4d1VBZ0cRg" type="6033">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fBpMOY1LEeWK4d1VBZ0cRg" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_fBpMOo1LEeWK4d1VBZ0cRg" type="6034">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fBpMO41LEeWK4d1VBZ0cRg" y="-20"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_fBfbMY1LEeWK4d1VBZ0cRg"/>
+    <element xmi:type="uml:Association" href="model_analyse_salon_coiffure.uml#_fBVqMI1LEeWK4d1VBZ0cRg"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fBfbMo1LEeWK4d1VBZ0cRg" points="[48, 16, -278, -105]$[276, 89, -50, -32]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fB8HII1LEeWK4d1VBZ0cRg" id="(0.7903930131004366,0.6482412060301508)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_2W7QkI1LEeWK4d1VBZ0cRg" type="4022" source="_2WUzoI1LEeWK4d1VBZ0cRg" target="_ygmfQY1LEeWK4d1VBZ0cRg">
+    <styles xmi:type="notation:FontStyle" xmi:id="_2W7QkY1LEeWK4d1VBZ0cRg"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_2W7Qko1LEeWK4d1VBZ0cRg" points="[2, 9, -140, -517]$[128, 476, -14, -50]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_38MlQI1LEeWK4d1VBZ0cRg" type="4022" source="_38DbUI1LEeWK4d1VBZ0cRg" target="_1DeEoY1LEeWK4d1VBZ0cRg">
+    <styles xmi:type="notation:FontStyle" xmi:id="_38MlQY1LEeWK4d1VBZ0cRg"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_38MlQo1LEeWK4d1VBZ0cRg" points="[5, 8, -359, -534]$[330, 492, -34, -50]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_eGhgYI1OEeWK4d1VBZ0cRg" type="4022" source="_eGXvYI1OEeWK4d1VBZ0cRg" target="_OidngY1MEeWK4d1VBZ0cRg">
+    <styles xmi:type="notation:FontStyle" xmi:id="_eGhgYY1OEeWK4d1VBZ0cRg"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_eGhgYo1OEeWK4d1VBZ0cRg" points="[9, 4, -862, -416]$[798, 384, -73, -36]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_gICFII1OEeWK4d1VBZ0cRg" type="4022" source="_gH6wYI1OEeWK4d1VBZ0cRg" target="_OxuLgY1MEeWK4d1VBZ0cRg">
+    <styles xmi:type="notation:FontStyle" xmi:id="_gICFIY1OEeWK4d1VBZ0cRg"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gICFIo1OEeWK4d1VBZ0cRg" points="[8, 5, -855, -540]$[801, 505, -62, -40]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_greJYI1OEeWK4d1VBZ0cRg" type="4022" source="_grW0oI1OEeWK4d1VBZ0cRg" target="_O2DR4Y1MEeWK4d1VBZ0cRg">
+    <styles xmi:type="notation:FontStyle" xmi:id="_greJYY1OEeWK4d1VBZ0cRg"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_greJYo1OEeWK4d1VBZ0cRg" points="[7, 6, -859, -655]$[808, 616, -58, -45]"/>
+  </edges>
+</notation:Diagram>

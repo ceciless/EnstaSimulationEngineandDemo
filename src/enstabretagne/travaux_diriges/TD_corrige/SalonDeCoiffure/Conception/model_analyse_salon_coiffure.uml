@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="__IhwcI1IEeWK4d1VBZ0cRg" name="model">
+  <packagedElement xmi:type="uml:Class" xmi:id="_OU0UcI1JEeWK4d1VBZ0cRg" name="Salon de Coiffure">
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_mdAccI1JEeWK4d1VBZ0cRg" name="coiffeurs" type="_QNlM4I1JEeWK4d1VBZ0cRg" aggregation="shared" association="_mdAcc41JEeWK4d1VBZ0cRg">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_mdAccY1JEeWK4d1VBZ0cRg" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_mdAcco1JEeWK4d1VBZ0cRg" value="*"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_as3ZwI1KEeWK4d1VBZ0cRg" name="jours ouverture" type="_EFB0wI1LEeWK4d1VBZ0cRg"/>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_nuxw4I1KEeWK4d1VBZ0cRg" name="heure ouverture" type="_EFB0wI1LEeWK4d1VBZ0cRg"/>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_NXznsI1LEeWK4d1VBZ0cRg" name="heure fermeture" type="_EFB0wI1LEeWK4d1VBZ0cRg"/>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_WTVYQI1LEeWK4d1VBZ0cRg" name="estOuvert" type="_V9m_4I1LEeWK4d1VBZ0cRg"/>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_fBMgQI1LEeWK4d1VBZ0cRg" name="clients" type="_SDT_cI1JEeWK4d1VBZ0cRg" association="_fBVqMI1LEeWK4d1VBZ0cRg">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_fBMgQY1LEeWK4d1VBZ0cRg"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_fBMgQo1LEeWK4d1VBZ0cRg" value="*"/>
+    </ownedAttribute>
+    <nestedClassifier xmi:type="uml:Class" xmi:id="_ygmfQI1LEeWK4d1VBZ0cRg" name="OuvertureSalon"/>
+    <nestedClassifier xmi:type="uml:Class" xmi:id="_1DeEoI1LEeWK4d1VBZ0cRg" name="FermetureSalon"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_QNlM4I1JEeWK4d1VBZ0cRg" name="Coiffeur"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_RCKrgI1JEeWK4d1VBZ0cRg" name="Scenario">
+    <nestedClassifier xmi:type="uml:Class" xmi:id="_OidngI1MEeWK4d1VBZ0cRg" name="DebutArriveeClient"/>
+    <nestedClassifier xmi:type="uml:Class" xmi:id="_OxuLgI1MEeWK4d1VBZ0cRg" name="FinArriveeClient"/>
+    <nestedClassifier xmi:type="uml:Class" xmi:id="_O2DR4I1MEeWK4d1VBZ0cRg" name="NouveauClient"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_SDT_cI1JEeWK4d1VBZ0cRg" name="Client"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_mdAcc41JEeWK4d1VBZ0cRg" name="instancie" memberEnd="_mdAcdI1JEeWK4d1VBZ0cRg _mdAccI1JEeWK4d1VBZ0cRg">
+    <ownedEnd xmi:type="uml:Property" xmi:id="_mdAcdI1JEeWK4d1VBZ0cRg" name="salon de Coiffure" type="_OU0UcI1JEeWK4d1VBZ0cRg" association="_mdAcc41JEeWK4d1VBZ0cRg">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_mdAcdY1JEeWK4d1VBZ0cRg" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_mdAcdo1JEeWK4d1VBZ0cRg" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_njj00I1JEeWK4d1VBZ0cRg" name="instancie" memberEnd="_njj00Y1JEeWK4d1VBZ0cRg _njHI4I1JEeWK4d1VBZ0cRg" navigableOwnedEnd="_njHI4I1JEeWK4d1VBZ0cRg">
+    <ownedEnd xmi:type="uml:Property" xmi:id="_njj00Y1JEeWK4d1VBZ0cRg" name="scenario" type="_RCKrgI1JEeWK4d1VBZ0cRg" association="_njj00I1JEeWK4d1VBZ0cRg">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_njj00o1JEeWK4d1VBZ0cRg" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_njj0041JEeWK4d1VBZ0cRg" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_njHI4I1JEeWK4d1VBZ0cRg" name="client" type="_SDT_cI1JEeWK4d1VBZ0cRg" association="_njj00I1JEeWK4d1VBZ0cRg">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_njHI4Y1JEeWK4d1VBZ0cRg" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_njHI4o1JEeWK4d1VBZ0cRg" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Stereotype" xmi:id="_8-fP4I1KEeWK4d1VBZ0cRg" name="Init"/>
+  <packagedElement xmi:type="uml:Stereotype" xmi:id="_EFB0wI1LEeWK4d1VBZ0cRg" name="Feature"/>
+  <packagedElement xmi:type="uml:PrimitiveType" xmi:id="_V9m_4I1LEeWK4d1VBZ0cRg" name="booleen"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_fBVqMI1LEeWK4d1VBZ0cRg" name="fileAttente" memberEnd="_fBVqMY1LEeWK4d1VBZ0cRg _fBMgQI1LEeWK4d1VBZ0cRg">
+    <ownedEnd xmi:type="uml:Property" xmi:id="_fBVqMY1LEeWK4d1VBZ0cRg" name="salon de Coiffure" type="_OU0UcI1JEeWK4d1VBZ0cRg" association="_fBVqMI1LEeWK4d1VBZ0cRg">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_fBVqMo1LEeWK4d1VBZ0cRg" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_fBVqM41LEeWK4d1VBZ0cRg" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Profile" xmi:id="_U11NkI1NEeWK4d1VBZ0cRg" name="EvenementTempo"/>
+</uml:Model>
